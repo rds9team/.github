@@ -1,4 +1,6 @@
-# rds9
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rds9team/.github/main/assets/logo.png" alt="rds9" width="600">
+</div>
 
 rds9.net を基盤とする開発チーム。
 

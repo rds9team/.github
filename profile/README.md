@@ -1,7 +1,7 @@
 # rds9team
 
 <p align="center">
-  <img src=".github/assets/logo.png" width="180" alt="rds9 logo">
+  <img src="https://raw.githubusercontent.com/rds9team/.github/main/assets/logo.png" width="180" alt="rds9 logo">
 </p>
 
 <p align="center">

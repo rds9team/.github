@@ -22,7 +22,7 @@ rds9teamは、rds9ブランドのもとで以下のサービスを開発・運�
 
 AIやクラウドサービスを活用しながら、機能性・安全性・保守性を重視したサービス提供を行います。
 
-[![Join Team](https://img.shields.io/badge/rds9team-Join_Us-blue?style=for-the-badge)](https://team.rds9.net)
+[![Join Team](https://img.shields.io/badge/rds9team-Join_Us-blue?style=for-the-badge)](https://discord.gg/X8BqRSbHr5)
 
 ## 主な方針
 
